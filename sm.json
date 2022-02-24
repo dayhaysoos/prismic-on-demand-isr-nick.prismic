@@ -1,0 +1,5 @@
+{
+  "apiEndpoint": "https://prismic-on-demand-isr-nick.prismic.io/api/v2",
+  "libraries": ["@/customtypes"],
+  "_latest": "0.1.0"
+}
